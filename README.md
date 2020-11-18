@@ -1,6 +1,9 @@
 # tensorrt_retinaface_with_python
 just add python bindings for tensorrt_retinaface detect frame works (support onnx to tensorRT modules)
 
+# tensorrt_retinaface_with_python
+just add python bindings for tensorrt_retinaface detect frame works (support onnx to tensorRT modules)
+
 # TensorRT ONNX with python bindings 
 
 clone from https://github.com/wuchaodzxx/tensorrt_retinaface
@@ -31,5 +34,3 @@ OpenCV-Python-C-Module-for-Image-Processing project is simple but does not work 
 pyboostcvconverter is a little complicated.
 
 i extract pyboost_cv4_converter.cpp from pyboostcvconverter , and combine it to OpenCV-Python-C-Module-for-Image-Processing 
-
-
